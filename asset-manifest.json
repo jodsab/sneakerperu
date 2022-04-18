@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sneakerperu/static/css/main.ab57c06b.css",
+    "main.js": "/sneakerperu/static/js/main.6b377a36.js",
+    "static/js/787.642fad06.chunk.js": "/sneakerperu/static/js/787.642fad06.chunk.js",
+    "static/media/logo.png": "/sneakerperu/static/media/logo.cd8ba6637e5539a37277.png",
+    "index.html": "/sneakerperu/index.html",
+    "main.ab57c06b.css.map": "/sneakerperu/static/css/main.ab57c06b.css.map",
+    "main.6b377a36.js.map": "/sneakerperu/static/js/main.6b377a36.js.map",
+    "787.642fad06.chunk.js.map": "/sneakerperu/static/js/787.642fad06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab57c06b.css",
+    "static/js/main.6b377a36.js"
+  ]
+}
